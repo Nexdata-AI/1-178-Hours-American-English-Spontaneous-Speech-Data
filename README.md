@@ -1,4 +1,4 @@
-# 1-178-Hours-American-English-Spontaneous-Speech-Data
+# 1178-Hours-American-English-Spontaneous-Speech-Data
 
 ## Description
 The 1,178-hour American English Spontaneous Speech Data is a collection of speech clips, covering multiple topics. Audio is transcribed into text, and speaker identity and other more attributes are annotated. This data set can be used for voiceprint recognition model training, construction of corpus for machine translation and algorithm research.
