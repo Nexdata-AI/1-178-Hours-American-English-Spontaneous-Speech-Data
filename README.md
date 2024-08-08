@@ -3,7 +3,7 @@
 ## Description
 The 1,178-hour American English Spontaneous Speech Data is a collection of speech clips, covering multiple topics. Audio is transcribed into text, and speaker identity and other more attributes are annotated. This data set can be used for voiceprint recognition model training, construction of corpus for machine translation and algorithm research.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1115?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1115?source=Github
 
 
 # Specifications
